@@ -30,7 +30,7 @@
 <img width="332" height="79" alt="Untitled" src="https://github.com/user-attachments/assets/aa7f4117-0710-46cc-b4e5-73da53b888d1" /><br>
 
 ## 1.8.	Working with Arrays: 
-= Explore array operations such as Arrays.deepToString(), contentDeepToString(), IntArray.joinToString(), and use them to print arrays. Utilize various loop types like range, downTo, until, etc., to manipulate arrays. Sort an array of integers both without using built-in functions and with built-in functions.<br>
+- Explore array operations such as Arrays.deepToString(), contentDeepToString(), IntArray.joinToString(), and use them to print arrays. Utilize various loop types like range, downTo, until, etc., to manipulate arrays. Sort an array of integers both without using built-in functions and with built-in functions.<br>
 <img width="462" height="707" alt="Untitled" src="https://github.com/user-attachments/assets/ff8df9b9-bb44-4d7a-9a50-6ebeeeb4e009" /><br>
 
 ## 1.9.	Find Maximum Number from ArrayList: 
